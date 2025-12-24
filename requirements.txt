@@ -1,0 +1,24 @@
+# En el Terminal:
+# pip install -r requirements.txt
+
+
+# Core libraries
+pandas==2.2.1
+numpy==1.26.4
+
+# Modelos de machine learning
+scikit-learn==1.4.1
+lightfm==1.17
+
+# Matrices dispersas
+scipy==1.13.0
+
+# Guardado y carga de modelos
+joblib==1.4.2
+
+# Visualización (opcional, si usaste en notebooks)
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# E/S JSON
+json5==0.9.25

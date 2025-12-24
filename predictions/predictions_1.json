@@ -1,0 +1,23 @@
+{
+    "target": {
+        "query_1": {
+            "partnumber": 17265
+        },
+        "query_2": {
+            "user_id": 187374
+        },
+        "query_3": {
+            "average_previous_visits": 94.33
+        },
+        "query_4": {
+            "device_type": 1
+        },
+        "query_5": {
+            "user_id": 72153
+        },
+        "query_6": {
+            "unique_families": 116
+        },
+        "query_7": {}
+    }
+}
