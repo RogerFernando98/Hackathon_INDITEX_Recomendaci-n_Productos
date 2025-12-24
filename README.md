@@ -124,6 +124,7 @@ HACKATHON_INDITEX_RECOMENDACION_PRODUCTOS/
 ├── src/
 ├── tests/
 ├── requirements.txt
+├── Enunciado.txt
 ├── .gitignore
 └── README.md
 ```
